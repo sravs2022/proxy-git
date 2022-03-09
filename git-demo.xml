@@ -1,0 +1,13 @@
+<APIProxy revision="1" name="git-demo">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1646839908297</CreatedAt>
+    <LastModifiedAt>1646839908297</LastModifiedAt>
+    <BasePaths>/v1/git-mock</BasePaths>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
